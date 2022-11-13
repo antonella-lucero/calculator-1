@@ -32,8 +32,8 @@ def cube(num1):
 
 
 def power(num1, num2):
-    pow (num1, num2)
-    return pow
+    x = pow(num1, num2)
+    return x
 
 
 def mod(num1, num2):
