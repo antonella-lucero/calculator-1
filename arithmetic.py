@@ -2,20 +2,23 @@
 
 
 def add(num1, num2):
-    """Return the sum of num1 and num2."""
-    return num1 + num2
+    sum = (num1 + num2)
+    return sum
 
 
 def subtract(num1, num2):
-    return num1 - num2
+    remain = (num1 - num2)
+    return remain
 
 
 def multiply(num1, num2):
-    return num1 * num2
+    multiplication = (num1 * num2)
+    return multiplication
 
 
 def divide(num1, num2):
-    return num1 / num2
+    division = (num1 / num2)
+    return division
 
 
 def square(num1):
