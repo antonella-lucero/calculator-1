@@ -19,15 +19,18 @@ def divide(num1, num2):
 
 
 def square(num1):
-    return num1 ** 2
+    square = num1 ** 2
+    return square
 
 
 def cube(num1):
-    return num1 ** 3
+    cube = num1 ** 3 
+    return cube
 
 
 def power(num1, num2):
-    return pow (num1, num2)
+    pow (num1, num2)
+    return pow
 
 
 def mod(num1, num2):
